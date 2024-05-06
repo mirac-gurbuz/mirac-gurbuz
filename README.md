@@ -1,4 +1,3 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fhypernet.com.tr%2Fblog-en-populer-programlama-dilleri-55&psig=AOvVaw2lTx5yXulNH8PH7VCUhdyi&ust=1715109931954000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiOrcng-YUDFQAAAAAdAAAAABAQ
 <h1 align="center">Hi 👋, I'm Miraç</h1>
 <h3 align="center">A passionate Full stack developer from Turkey</h3>
 
